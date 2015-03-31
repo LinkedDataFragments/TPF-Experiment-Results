@@ -1,0 +1,1 @@
+The results of experiment 1 are available as triple pattern fragments at http://data.linkeddatafragments.org/benchmark.
